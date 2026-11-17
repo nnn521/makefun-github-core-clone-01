@@ -1,0 +1,6 @@
+github-core-clone-01-kit/
+kit.tgz
+requirements.json
+requirements-pretty.json
+node_modules/
+*.log
